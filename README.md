@@ -1,2 +1,1 @@
-# .github
-✨ Nexst Company ✨
+# ✨ Nexst Company ✨
